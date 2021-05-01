@@ -1,5 +1,5 @@
 # tableau_samples
-A few selected exampls examples of work produced with Tablea (with support of R and ArcGIS apps).
+A few selected exampls examples of work produced with Tablea (with support of ArcGIS apps).
 
 An external version of a COVID-19 operational dashboard (without more complex functionalities such as activity-level tracking and COVID-19 impacts) was released at this [link here](https://analytics.wfp.org/t/Public/views/ExternalCOVID-19RBBDashboard/COVID-19RBBDashboard/clinton.tedja@global.wfp.org/54a93132-a9bc-4d5c-bf96-2e397e51d0b3?:display_count=n&:showVizHome=n&:origin=viz_share_link&:toolbar=no&:embed=true).
 
