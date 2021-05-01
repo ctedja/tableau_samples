@@ -15,6 +15,6 @@ This was embedded into an ArcGIS Storymap, [linked here](http://arcg.is/PCHyn1)
 <br>
 <br>
 
-Below is a screenshot of a separate, subnational (Admin2 level) activity mapping product which was integrated into a broader suite of operational dahsboards. Blurred screenshot intentional.
+Below is a screenshot of a separate, subnational (Admin2 level) activity mapping product which was integrated into a broader suite of operational dashboards. Blur intentional.
 
 ![image3](https://github.com/ctedja/tableau_samples/blob/main/Activity_Map_Still.png)
