@@ -1,4 +1,4 @@
-# tableau_samples
+# Tableau Samples
 A few selected examples of work produced with Tableau (occasionally with support of R/ArcGIS).
 
 <br>
